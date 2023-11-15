@@ -1,2 +1,2 @@
 # MTH4000
-Some python work i submit here
+Here i will be posting coding which i will need for my python lectures and labs.
